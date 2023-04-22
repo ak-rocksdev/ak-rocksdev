@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ak-rocksdev
 - 👀 I’m interested in JavaScript framework & PHP
-- 🌱 I’m currently working on a web app using Laravel Framework
+- 🌱 I’m currently working on a web app using Laravel Framework and Vue JS
 <!-- - 📫 How to reach me ... -->
 
 <!---
